@@ -1,0 +1,234 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bells founder confounded, or Sabinianus confuted: with his damnable sect Written by a lover of musick, especially in churches.</title>
+            <author>Chidley, Samuel.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1658-1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A79486</idno>
+            <idno type="STC">Wing C3834B</idno>
+            <idno type="STC">ESTC R223889</idno>
+            <idno type="EEBO-CITATION">99896937</idno>
+            <idno type="PROQUEST">99896937</idno>
+            <idno type="VID">135647</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A79486)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 135647)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2458:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Bells founder confounded, or Sabinianus confuted: with his damnable sect Written by a lover of musick, especially in churches.</title>
+                  <author>Chidley, Samuel.</author>
+               </titleStmt>
+               <extent>[2], 10 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1659?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A lover of musick = Samuel Chidley.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Caption title on p. 1: Babels bells confounded by Sions arguments.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library, Washington, D.C..</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Cathedrals --  England --  Early works to 1800.</term>
+               <term>Word of God (Theology) --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-09</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-09</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:135647:1"/>
+            <p>BELLS FOUNDER Confounded, OR Sabinianus confuted: With his damnable SECT.</p>
+            <q>
+               <bibl>Jeremiah chap. 50. verſ. 2.</bibl> 
+               <hi>Bel is confounded.</hi>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Chap. 51. v. 17.</hi>
+               </bibl> Every man is brutiſh by his knowledge. Every Founder is confound<g ref="char:EOLhyphen"/>ed by the graven Image: For his molten Image is Falſhood, and there is no breath in them.</q>
+            <q>
+               <bibl>
+                  <hi>Verſe. 18.</hi>
+               </bibl> They are vanity, the works of errours, in the time of their viſitation they ſhall periſh.</q>
+            <q>
+               <bibl>
+                  <hi>Verſe, 19.</hi>
+               </bibl> The portion of Iacob is not like them.</q>
+            <q>
+               <bibl>
+                  <hi>Verſe, 44.</hi>
+               </bibl> I will puniſh Bell in Babylon and I'le bring forth out of his mouth that which he hath ſwallowed up and the nations ſhall not flow to<g ref="char:EOLhyphen"/>gether any more unto him, yea the walls of Babylon ſhall fall.</q>
+            <p>
+               <hi>Written by a Lover of Muſick, eſpecially in Churches.</hi>
+            </p>
+            <p>Barns, Durand, <hi>and</hi> Platino <hi>tells, That Pope</hi> Sabinnian <hi>brought in bells. Anno,</hi> 603.</p>
+         </div>
+         <div type="preface">
+            <head>The Preface.</head>
+            <p>FOrasmuch as the <hi>PARLIAMENT</hi> hath voted down the <hi>Ca<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hedrals,</hi> for ſatisfaction of the <hi>PUBLICK FAITH;</hi> it's humbly deſired by the best affected, that they would proceed therein, according as the <hi>WORD OF GOD</hi> ſhall direct them, and take into their ſerious conſider<g ref="char:EOLhyphen"/>ation, the Bill that's drawn up for the demolliſhing of the <hi>Cathedrals;</hi> with ſome exceptions of thoſe which ſhall appear to be to the worſhip onely of the true <hi>GOD,</hi> that ſo there may be ſatisfaction provided for the <hi>PUBLICK FAITH</hi> accordingly; and whereas it hath been moved, that the <hi>Bells</hi> ſhould be pulled down alſo for ſatisfaction of the <hi>PUBLICK FAITH,</hi> It's humbly deſired that the <hi>PAR<g ref="char:EOLhyphen"/>LIAMEMT</hi> would proceed therein likewiſe, accor<g ref="char:EOLhyphen"/>ding to the Rules and Examples of the <hi>WORD OF GOD.</hi>
+            </p>
+         </div>
+         <div type="errata">
+            <head>ERRATA's.</head>
+            <p>PAge 4, line 25, for <hi>occaſion</hi> read <hi>Oration:</hi> l. 27, for <hi>ſoveraign</hi> read <hi>ſuffregan:</hi> l. 29, for <hi>God</hi> read <hi>the Lord:</hi> p. 9, l. 30, for <hi>the late</hi> read <hi>your late.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:135647:2"/>
+            <head>Babels Bells confounded BY SIONS ARGVMENTS.</head>
+            <head type="sub">Humbly propoſed to the conſiderations of the <hi>PARLIAMENT.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">I</seg>F <hi>the Brazen Serpent</hi> made by Gods ap<g ref="char:EOLhyphen"/>pointment was <hi>broken in peeces</hi> when it was Idolized, and that we muſt <hi>fight a<g ref="char:EOLhyphen"/>gainst ſpirituall wickedneſſes ſet up in high places;</hi> If <hi>Baal muſt not be pleaded for;</hi> If <hi>Bell muſt be confounded;</hi> if <hi>the bleating of the Amalekites fat Cattel ſpared by King Saul</hi> was offen<g ref="char:EOLhyphen"/>ſive to the <hi>Almighty;</hi> If <hi>Babel</hi> is ſo ſick of the <hi>Popiſh Catholike diſeaſe</hi> that no balm will heal her; If the indignation of the <hi>moſt high</hi> is manifeſted from <hi>Hea<g ref="char:EOLhyphen"/>ven</hi> againſt the high places, by <hi>thunder and light<g ref="char:EOLhyphen"/>ning, fire and brimſtone, Storms and Tempeſts,</hi> O let the pillars of your hearts tremble, and be ye moved at the terrour of the Lord, <hi>who doth great things both in Heaven,</hi> and Earth, and hath ſaid he <hi>will deſtroy the High places;</hi> Flee therefore from ſuch abomi<g ref="char:EOLhyphen"/>nations, and <hi>deliver every man his ſoul, Plead not for Baal, but let Baal plead for himſelf,</hi> and put to your hand to the throwing down of all the monuments of <hi>Idolatry;</hi> for ſo you have ſworn to do, and it's not for you now to repent thereof: Therefore let it not
+<pb n="2" facs="tcp:135647:3"/>be grievous in your eys though <hi>the Houſes of Baal be broken to pieces,</hi> and the <hi>founded bells of Babels bulls confounded and diſolved.</hi>
+            </p>
+            <p>For ſurely if theſe theſe things had been quite abo<g ref="char:EOLhyphen"/>liſhed in the days of <hi>King Henry the eight, and King Edward the ſixt,</hi> many a precious life would have been preſerved, which now is deſtroyed; but there being many <hi>Idols Temples,</hi> and other <hi>monuments</hi> of <hi>Idolatry</hi> left undeſtroyed, <hi>Queen Mary</hi> did ſpeedily ſet up her <hi>abominable Idolatry</hi> in all theſe <hi>High pla<g ref="char:EOLhyphen"/>ces</hi> as much as ever; and had the more time to exer<g ref="char:EOLhyphen"/>ciſe her ſelf in moſt cruel perſecution. And when <hi>Queen Elizabeth</hi> came to the <hi>Crown,</hi> ſhe threw not down theſe abominations; neither did <hi>King Iames,</hi> nor the late <hi>King,</hi> but did ſtill let them remain to the diſhonour of the <hi>living God,</hi> and plaguing of the <hi>Kingdomes.</hi> And although ſince the beginning of theſe late troubles, there hath been ſome reformati<g ref="char:EOLhyphen"/>on made by demoliſhing of <hi>Croſses,</hi> and <hi>Idolatrous pictures,</hi> yet nothing is done ſo much as ought to be: for the Roots of ſuperſtition, even the <hi>Idolatrous high places</hi> are not yet removed, though many of them were built intentionally in the forms of <hi>Croſſes,</hi> and conſecrated to <hi>Popiſh Saints,</hi> that thereby the people might the-more adore them: Neither have you ta<g ref="char:EOLhyphen"/>ken away <hi>the Popiſh bells,</hi> though they are abomina<g ref="char:EOLhyphen"/>ble <hi>Idols</hi> in the very <hi>conception, formation, dedicati<g ref="char:EOLhyphen"/>on, conſecration, exaltation and occupation</hi> thereof, and therefore ought to be taken down, and utterly demoliſhed.</p>
+            <p>Oh therefore that the Honourable Houſe of <hi>Par<g ref="char:EOLhyphen"/>liament</hi> were throughly ſenſible how greatly the Name of <hi>God</hi> hath been blaſphemed; and many thou<g ref="char:EOLhyphen"/>ſands of poor ſouls deluded, bewitched, and led head<g ref="char:EOLhyphen"/>long
+<pb n="3" facs="tcp:135647:3"/>into hell by ſuch abominable Idols. Now that none may hence forward plead ignorance in omit<g ref="char:EOLhyphen"/>ting of this duty of demoliſhing of theſe <hi>Idols</hi> the <hi>bells,</hi> which proceeded from the <hi>Dragon;</hi> which is the <hi>Divel and Sathan,</hi> I ſhall lay open the filthineſs &amp; abomination therof, <note place="margin">See the com<g ref="char:EOLhyphen"/>plaint of Ja<g ref="char:EOLhyphen"/>cobus Selesta<g ref="char:EOLhyphen"/>dienſis to Ma<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>imilian the Emperour.</note> as thoſe who have read their books &amp; the <hi>Chronicles,</hi> and have ſeen their practiſes, have ſpoken &amp; can ſpeak by experience, What <hi>great abomination</hi> hath been committed about theſe cur<g ref="char:EOLhyphen"/>ſed <hi>Idols</hi> the <hi>Bells!</hi> What horrible <hi>blaſphemies of God,<note place="margin">In Mr. Foxes acts and monuments.</note> and of the Saints in Heaven!</hi> What ſolemn <hi>profana<g ref="char:EOLhyphen"/>tion of the Name of the living God,</hi>
+               <note place="margin">See alſo The. Bacon upon the reliques<g ref="char:punc">▪</g> in<g ref="char:EOLhyphen"/>dulgences, par<g ref="char:EOLhyphen"/>dons, ſtations, Exorciſinse, conſecrations; benedictions, where you ſhal ſee the abomi<g ref="char:EOLhyphen"/>nations of the Bells.</note> and of <hi>his holy ſpi<g ref="char:EOLhyphen"/>rit!</hi> What abuſe and miſ-application of the ſacred Word, by their filthy polluted lips! What <hi>Exorciſms, <hi>by the living God, the God of Elizeus the Pro<g ref="char:EOLhyphen"/>phet,!</hi>
+               </hi> What <hi>ſupluſſing,</hi> &amp; <hi>ſtoleing!</hi> What <hi>croſſing and cringing,</hi> with the <hi>Prieſts</hi> &amp; <hi>Clarks ſinging!</hi> What <hi>in<g ref="char:EOLhyphen"/>vocations, execrations, conjurations, and benedictions, blind devotions, and admirations! What wiping, anoin<g ref="char:EOLhyphen"/>ting<g ref="char:punc">▪</g> ſweetning, &amp; perfuming!</hi> What ſprinkling, with choiſe of <hi>Godfathers and Godmothers,</hi> naming the pretty <hi>bables for babies,</hi> the <hi>bels for Babels buls!</hi> What <hi>ſinging and ringing!</hi> What <hi>drinking and roaring!</hi> What <hi>Goſſiping</hi> at the ſaid <hi>Chriſtenings</hi> of theſe abo<g ref="char:EOLhyphen"/>minable Idols! Far worſe then the <hi>Calves of Beth-ha<g ref="char:EOLhyphen"/>ven,</hi> or the <hi>Image of King Nebuchadnezzar,</hi> which was <hi>ſet up in the plains of Dura:</hi> for theſe are <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>van<g ref="char:EOLhyphen"/>ced above the reſt of their <hi>Gods,</hi> even in the <hi>higheſt pla<g ref="char:EOLhyphen"/>ces</hi> of their <hi>Idols temples,</hi> That the <hi>bels</hi> which through their prayers have been <hi>brought into a right ſhape into Chriſtendome</hi> (as they ſay) <hi>may make ſweet melody like Davids Harp, and ring merrily</hi> as their <hi>Prieſts and Clarks</hi> did <hi>ſing merrily</hi> af<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er it was caſt, <hi>Te Deum,</hi> and <hi>De pacem,</hi> and <hi>a Domi<g ref="char:EOLhyphen"/>ne
+<pb n="4" facs="tcp:135647:4"/>factum eſt iſtud, &amp; eſt myrabila in occulis no<g ref="char:EOLhyphen"/>ſtris. This is the Lords doings, and is marvel<g ref="char:EOLhyphen"/>lous in the eys of us:</hi> Oh horrible! the Founder foundeth it, and they ſay, <hi>it is the Lords doings,</hi> when it is the <hi>Divels doings:</hi> For from whence came theſe <hi>curſed bells,</hi> but from the <hi>Idol Bell and the Dra<g ref="char:EOLhyphen"/>gon, Belzebub the Prince of the Divels?</hi> Thus <hi>the children of <hi>Belial</hi>
+               </hi> have called their <hi>bells</hi> by the name of <hi>old Bell of Babel,</hi> even the <hi>God</hi> whom they worſhip; and as <hi>Babel</hi> ſignifieth confuſion, ſo the <hi>almighty</hi> ſaith, <hi>Bell ſhall be confounded, Ile pu<g ref="char:EOLhyphen"/>niſh Bell, Bell ſtoopeth;</hi> and indeed the <hi>Bells</hi> begin to ſtoop already, and it's hoped <hi>the Lord of Hoſts</hi> will diſſolve them in his fury. But how have the eys of the people been blinded and made to dote upon theſe deteſtable Idols, that they prayed for <hi>the virtue of the Holy Ghoſt to be put thereon,</hi> and again, <hi>that the ſame may be ſanctified and hallowed of the Holy Ghoſt;</hi> and in another prayer, <hi>that the Bell may be repleniſhed with his heavenly bleſſing;</hi> and in another prayer, <hi>that the dew of the Holy Ghoſt may be poured out thereon.</hi>
+            </p>
+            <p>Oh what power and glory, what virtue and good<g ref="char:EOLhyphen"/>neſs do they aſcribe unto this <hi>Bell,</hi> for as <hi>at King Herods occaſion, the people cried, the voice of God and not of men,</hi> ſo theſe ignorant ſots, after the <hi>Biſhops or ſo<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>raign hath wiped the bell with a linnen towel, ſing, Vox Domine ſuper aquas, the voice of God is upon the waters; Deus majeſtatis intonnuit, Domine ſuperaquas multas, vox Do<g ref="char:EOLhyphen"/>mine in virtute; vox Domine in magnificentia, vox Domine confringentis cadros,</hi> and alſo aſ<g ref="char:EOLhyphen"/>cribe that ſalvation to theſe bells, which belongs to <hi>God, and onely to his Chriſt; <hi>that the ſound and
+<pb n="5" facs="tcp:135647:4"/>noiſe thereof, ſhall drive away the fiery darts' and power of the enemies, and make their army a<g ref="char:EOLhyphen"/>fraid.</hi>
+               </hi> And as the <hi>Heathen Romans</hi> of old aſcribed deliverance to <hi>mother Idaea,</hi>
+               <note place="margin">See Mayers hiſt. pag. <hi>125.</hi>
+               </note> upon the comming forth of a <hi>Propheſie of Sibil, that if Idaea the mother of the Gods were brought to Rome, they ſhould be able to drive the forraign enemy out of Italy, whereupon Embaſſa<g ref="char:EOLhyphen"/>dours being ſent to Attalus King of Pergamus to fetch her, and by the way the Oracle of Apollo being conſulted with, he</hi> (that is that Devil) <hi>anſwered, that they muſt have a care to bring this Idaea into the worthieſt mans houſe in Rome; wherefore with great ſolemnity one that was judged by the Citizens of Rome to be the worthieſt, was required to meet the Idoll, being then</hi> 50 <hi>miles off the City, together with a company of Matrons, who brought Idaea the mother of their Gods by turns upon their ſhoulders, all praying as it entred, that it would willingly enter, and be propitious unto them;</hi> ſo the fooliſh people now, who hold <hi>ignorance</hi> to be <hi>the mother of devotion,</hi> are made to believe, <hi>that the ſound and noiſe of the Bels ſhall drive away the fiery darts and power of the enemies and make their armies afraid; and with ſuch words do they pray at the dedication of the Bell; and likewiſe that the imaginations of fantaſies, the ſtriking of Lightnings, the hurt of Thunderings the cala<g ref="char:EOLhyphen"/>mity of Tempeſts, and all ſtormy ſpirits by the noiſe and ſound thereof may depart and go far a<g ref="char:EOLhyphen"/>way, and all the lying await of the enemy may be far put back, that the beating of the Hail, the ſtorm of Winds, the violence of Tempeſts may be mi<g ref="char:EOLhyphen"/>tigated and aſſwaged;</hi> moreover that the <hi>fierce thundering and boyſtrous ſtorms may be ſo mea<g ref="char:EOLhyphen"/>ſured that they do no harm, or hurt his creatures;
+<pb n="6" facs="tcp:135647:5"/>in fine, that the powers of the air hearing this bel may tremble and ſhake for fear, and flee before the Banner of the holy Croſſe, and that when the ſound of the bell pierceth through the clouds that the hands of the Angels may keep the congrega<g ref="char:EOLhyphen"/>tion;</hi> yea, they aſcribe ſuch power unto the <hi>bells, as when the walls of Ierico fell to the ground,</hi> and would make the people believe that <hi>the preſence of God is in them to work wonders, as at the di<g ref="char:EOLhyphen"/>viding of the ſea and turning back of the waters of Iordan,</hi> and ſay <hi>when it is demanded, where<g ref="char:EOLhyphen"/>fore? it may be anſwered, the earth was moved at the face of the Lord, at the face of the God of Iacob, which turned the hard rocks into rivers of waters, &amp; the flint ſtones into watry ſtreams;</hi> and thereupon ſay, <hi>that when this preſent bell, (as the other veſſels of the Altar) is touched with the holy chriſom; and anointed with holy oil all they that come &amp; draw near to the ſound &amp; noiſe thereof, may be free from all temptations of the enemies;</hi> and they aſcribe ſalvation to t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>w<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tch<g ref="char:EOLhyphen"/>ing creatures, as if there were <hi>power in them to deliver their ſouls from hell &amp; cauſe them to paſſe into heaven:</hi> Thus <hi>God</hi> is diſhonoured, his <hi>my steries</hi> mocked, his <hi>creatures</hi> abuſed, <hi>ſuperſtition</hi> and <hi>idolatry</hi> upheld, the <hi>poor people</hi> deceived, O therefore make haſt, vote them down, down with them, down with them to the very ground, for <hi>God</hi> hath a controver<g ref="char:EOLhyphen"/>ſie with them, and with all them that cry them up, and let them not be exalted any more to the <hi>heaven,</hi> but bring them down and deſtroy them, for <hi>if you will not demoliſh them, God himſelf will do it ſome other way,</hi> either by ſending ſome other power to do it, or elſe by proceeding as he hath begun with <hi>Lightning
+<pb n="7" facs="tcp:135647:5"/>and Thunder to destroy them,</hi> notwithſtanding all their prayers to be delivered from ſuch judgements, the <hi>bels</hi> you ſee can't deliver themſelves, and of all places in their <hi>Churches, <hi>Gods lightning</hi>
+               </hi> lighteth upon the <hi>Belfraies,</hi> ſo that in divers countries the <hi>bells</hi> are melted, by the vehemency of the flames of <hi>I A H,</hi> and many people killed outright this year, as well as heretofore, and others dangerouſly hurt, in ſo much as we ſee <hi>THE FINGER OF GOD</hi> pointing at them, directing you to deſtroy them.</p>
+            <p>Moreover, what abundace of good chear theſe <hi>bels</hi> with the <hi>Dragons Prieſts</hi> have devoured by the <hi>great Goſſhops feaſts,</hi> which were made at the <hi>bap<g ref="char:EOLhyphen"/>tizing</hi> thereof! What <hi>gifts</hi> &amp; <hi>offerings</hi> to the great impoveriſhing of the inhabitants, whoſoever rea<g ref="char:EOLhyphen"/>deth <hi>the book of Martyrs</hi> may ſee, where it is com<g ref="char:EOLhyphen"/>plained of. I would add ſo<g ref="char:cmbAbbrStroke">̄</g>ething more, <hi>how the Lords name is diſhonored, the Sabboth prophaned, drunke<g ref="char:cmbAbbrStroke">̄</g>neſs upheld,</hi> and many other vices by the continuation of theſe ungodly trinkets, and how much money is day<g ref="char:EOLhyphen"/>ly raiſed by the ringing of the <hi>bells</hi> for the <hi>dead,</hi> and mocking of many people, by making them pray for the <hi>dead,</hi> as if they were alive and dying! But what hath been ſaid and done is enough, unleſs you would have God ſpeak and do more then he hath.</p>
+            <p>If you doubt whether they belong to the <hi>Common<g ref="char:EOLhyphen"/>wealth,</hi> aſſure your ſelves that <hi>whatſoever ammuniti<g ref="char:EOLhyphen"/>on is ſent to the enemy (if it be taken) it's lawfull prize, &amp; belo<g ref="char:cmbAbbrStroke">̄</g>geth of right to the Co<g ref="char:cmbAbbrStroke">̄</g>monwealth;</hi> ſo theſe trin<g ref="char:EOLhyphen"/>kets being devoted to the ſervice of <hi>Antichriſt,</hi> do properly belong to <hi>the Common wealth,</hi> to do by them as <hi>Aſa, Iehoſaphat, Hezekiah, and Ioſia,</hi> did by ſuch <hi>idolatrous dedicated</hi> things, without any further diſ<g ref="char:EOLhyphen"/>pute or asking leave of the <hi>idolatrous propriators,</hi>
+               <pb n="8" facs="tcp:135647:6"/>and as many <hi>high places</hi> were aboliſhed by <hi>King Henery the Eight,</hi> and many <hi>Croſſes</hi> from of the <hi>Steeples</hi> and <hi>May-poles</hi> and <hi>ſuperſtitious ſigns</hi> by the <hi>Parliament</hi> were taken down. Yea, their <hi>Or<g ref="char:EOLhyphen"/>gans</hi> in their <hi>Churches</hi> were deſtroyed alſo by <hi>or<g ref="char:EOLhyphen"/>der</hi> of <hi>Parliament,</hi> although they were never ſo tu<g ref="char:EOLhyphen"/>nable &amp; delectable to the ear &amp; heart, &amp; had multi<g ref="char:EOLhyphen"/>plicities of <hi>notes,</hi> and all the <hi>flats</hi> and <hi>ſharps</hi> ther<g ref="char:EOLhyphen"/>unto belonging, were full of <hi>diviſions, ſubdiviſions</hi> and <hi>varieties of parts,</hi> far exceeding the braveſt <hi>Bag-pipes,</hi> or the luſtieſt <hi>Lancaſhire Horn pipes</hi> with all their <hi>drones,</hi> none of all which properties the <hi>bels</hi> in any one of your <hi>Steeple &amp; have,</hi> and the <hi>Or<g ref="char:EOLhyphen"/>gans</hi> required not ſo many to be occupied in the ſetting them on work as the <hi>bels, one</hi> was enough to <hi>blow</hi> and an <hi>Organiſt</hi> to <hi>play,</hi> which was done with leſſe toil and ſweating then the <hi>ringing of bels,</hi> ſome <hi>bels</hi> requiring <hi>ſixteen men</hi> to <hi>ring</hi> each of them, and at the beſt are but <hi>novelties</hi> in compa<g ref="char:EOLhyphen"/>riſon of the <hi>Organs,</hi> which is of four thouſand years ſtanding, the <hi>bels</hi> being brought in by <hi>Pope Sa<g ref="char:EOLhyphen"/>binianus in Anno</hi> 603. yet you have broken the <hi>Organs to pieces,</hi> and the <hi>rails of the Communi<g ref="char:EOLhyphen"/>on Tables,</hi> and the <hi>Founts,</hi> although ſome <hi>Pa<g ref="char:EOLhyphen"/>riſhes</hi> and perſons claimed a <hi>peculiar intereſt,</hi> and property therein; even ſo ought you to deſtroy theſe abominable <hi>bels,</hi> and this is a general maxime, <hi>that whatſoever is devoted to ſuperſtition and idolatry, is forfeited to the Common-wealth,</hi> and you ought to ſeiz upon the ſame, as of the goods of <hi>Traytors,</hi> which is devoted to the enemy, and if you take not the oppor<g ref="char:EOLhyphen"/>tunity now <hi>God</hi> hath put a prize in your hand, your neglect wil be as a <hi>dead flie in the Oyntme<g ref="char:cmbAbbrStroke">̄</g>t of the A<g ref="char:EOLhyphen"/>pochecary:</hi> If the <hi>ignora<g ref="char:cmbAbbrStroke">̄</g>t people</hi> alledg <hi>that the noiſe
+<pb n="9" facs="tcp:135647:6"/>of the bell is heard a far off, and how ſhall they know when to go to Church, if they be al taken down?</hi> Wot you not that in a Market one <hi>bell</hi> is enough to give warning to the people? and Tread not that God ordained any bells for his <hi>Church,</hi> but what were made of <hi>Gold,</hi> and they were not for the <hi>aſſembling</hi> of the Congregation neither, but when they were aſſembled, but indeed <hi>God ordained ſilver Trumpets for the aſſembling of his con<g ref="char:EOLhyphen"/>gregation, and Trumpets of Rams horns, at the throwing down the walls of Ierico,</hi> inſtead whereof the <hi>Papiſts</hi> have ordained <hi>bells</hi> telling us, <hi>they are good to clear the air,</hi> but if theſe <hi>bauling bells,</hi> were metamorphoſed into <hi>roring Canons,</hi> and charged with <hi>Gun-powder and flying bullets,</hi> againſt the <hi>gates</hi> of our <hi>enemies,</hi> they would <hi>clear the air better,</hi> and make a better noiſe then now they do, and be a better <hi>recreation;</hi> therefore I pray delay not to aboliſh them: now make an end where God hath begun, leſt he prevent you; for out of heaven hath he thun<g ref="char:EOLhyphen"/>dred upon them, and his judgements findeth them out in the val<g ref="char:EOLhyphen"/>leys as well as on the hills.</p>
+            <p>If you ſay that you <hi>fear the People,</hi> I anſwer, <hi>They are but an arm of fleſh and you need not fear them at all,</hi> for now you have no enemy in the Land in arms againſt you; but when you threw down the <hi>Croſſes</hi> and <hi>May-poles,</hi> and other <hi>monu<g ref="char:EOLhyphen"/>ments of idolatry,</hi> you had the <hi>late King and his forces,</hi> and an unconquered people to oppoſe you, yet you went on and the <hi>Lord</hi> proſper'd you: now you are ſtrong but then you were weak; now the <hi>government</hi> is ſetled in the way of a <hi>Commonwealth,</hi> but then it was not ſetled; you had the <hi>King,</hi> and <hi>Lords,</hi> and their <hi>Armies</hi> to oppoſe you; <hi>And who can harm you if you are followers of that which is good?</hi> When you demoliſhed the <hi>Ca<g ref="char:EOLhyphen"/>thedral at Leighfield, <hi>by the late Order,</hi>
+               </hi> who oppoſed you? <hi>When King Aſa threw down the high places, and aboliſhed the Idols,</hi> it is ſaid, <hi>the land was quiet before him.</hi> Do but you your duty, and I'le warrant you wil do wel enough, the people wil not harm you; GOD can cauſe his <hi>fear</hi> and <hi>terrer</hi> to fal upon them, and <hi>thunder</hi> upon them by his <hi>power,</hi> ſo that if they wil contemp<g ref="char:EOLhyphen"/>tuouſly ſtand to <hi>Plead for Baal,</hi> they ſhall certainly <hi>periſh,</hi> and <hi>fall;</hi> and if they will have the <hi>Idol Bel,</hi> they muſt have the <hi>Dra<g ref="char:EOLhyphen"/>gon too.</hi>
+            </p>
+            <closer>
+               <signed>
+                  <hi>Subſcribed by</hi> SAMUEL CHIDLEY,</signed>
+            </closer>
+            <epigraph>
+               <q>
+                  <l>On the behalf of all Saints,</l>
+                  <l>And for the cure of all Souls,</l>
+               </q>
+            </epigraph>
+         </div>
+         <div type="petition">
+            <pb n="10" facs="tcp:135647:7" rendition="simple:additions"/>
+            <head>To the Honourable <hi>Committee for regulating the Markets.</hi> The Humble Petition of <hi>Samuel Chidley.</hi>
+            </head>
+            <opener>Sheweth,</opener>
+            <p>THat although <hi>GOD</hi> hath commanded, That the <hi>places wherein the nations worſhipped their gods,</hi> ſhould be <hi>utter<g ref="char:EOLhyphen"/>ly deſtroyed.</hi> Yet there is ſuffered to ſtand ſtill <hi>that abominable idol <hi>Pauls,</hi>
+               </hi> that <hi>old bawdy houſe</hi> of the <hi>whore of Babylon,</hi> which was built, dedicated, and conſecrated, firſt by the heathens, and after that by the <hi>Antichriſtians,</hi> In which place <hi>filthy I<g ref="char:EOLhyphen"/>dols</hi> have been ſet up, <hi>abominable idolatry</hi> practiſed, <hi>horrible blaſphemies</hi> uttered, againſt <hi>THE NAME</hi> of <hi>THE MOST HIGH GOD,</hi> and <hi>cruel murthers</hi> committed againſt the <hi>Martyrs</hi> of <hi>IESVS CHRIST,</hi> The <hi>repairing</hi> whereof (though impoſſible to be finiſht without <hi>abundance of money</hi>) hath <hi>robbed the people of millions of treaſure,</hi> and made them poorer then <hi>Iob,</hi> and <hi>occaſioned much ſtrife,</hi> and <hi>many houſes to be pulled down,</hi> which were round about it, Whoſe <hi>higheſt ſpire,</hi> the <hi>light<g ref="char:EOLhyphen"/>ning from <hi>heaven,</hi>
+               </hi> &amp; <hi>fire</hi> hath conſumed once or twice, The form of <hi>that houſe</hi> being a <hi>compleat croſs,</hi> the <hi>univerſal badge</hi> of <hi>a Papiſt,</hi> And the <hi>ruines therof cumbring the ground,</hi> &amp; <hi>the mid<g ref="char:EOLhyphen"/>dle place thereof being ready to fall of it ſelf,</hi> the <hi>whole Fabrick thereof</hi> being no <hi>ornament,</hi> but <hi>a diſgrace to the City and whole nation, and is of no repute</hi> amongſt any <hi>rational men,</hi> but a com<g ref="char:EOLhyphen"/>pany of <hi>fool, <hi>Papiſts,</hi>
+               </hi> and <hi>Atheists,</hi> ſuch <hi>beaſts whom St. Paul fought with at Epheſus after the manner of men;</hi> Beſides, ſome perſons out of covetouſneſs have lately ſtoln away very much of the Leads, after the HOUSE had <hi>voted the deſtruction of the Cathedrals for payment of the</hi> PUBLICK FAITH.</p>
+            <p>Your Petitioner in conſcience to his <hi>GOD</hi> humbly begs, that that <hi>great Idol</hi> may be ſpeedily rooted up to the very bot<g ref="char:EOLhyphen"/>tom of <hi>Sin Faiths,</hi> for ſatisfying of the PUBLICK FAITH of <hi>this nation,</hi> And that there may be a NEW MARKET erected there (and called by another name) that the <hi>adjacent ſtreets</hi> may have a free paſſage without that uſual interrupti<g ref="char:EOLhyphen"/>on, by <hi>crowds of people, Carts,</hi> and <hi>Coaches,</hi> on every ſide, All which will no doubt tend very much to the good of <hi>the Commonwealth</hi> in general, and <hi>the City of London</hi> in par<g ref="char:EOLhyphen"/>ticular, and be pleaſing to <hi>GOD,</hi> which is beſt of all.</p>
+            <closer>
+               <signed>And your Petitioner ſhall ever pray, <hi>&amp;c.</hi>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
